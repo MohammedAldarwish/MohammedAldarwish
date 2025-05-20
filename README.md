@@ -1,4 +1,5 @@
 # 💫 About Me:
+- 👨‍💻 I'm a web backend developer who loves building robust and scalable systems
 - 💡 Focused on writing efficient and reliable backend systems  
 - 💬 I enjoy sharing knowledge and learning from others  
 - ⚡ I believe consistency beats raw talent every time  
